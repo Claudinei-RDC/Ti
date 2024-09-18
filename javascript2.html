@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JS Exemplos</title>
+</head>
+<body>
+    <!-- Adicione um botão com o ID 'btn-clicou' -->
+    <button id="btn-clicou">Clique aqui</button>
+    
+    <script type="text/javascript">
+        // Aguardando o carregamento completo do DOM
+        document.addEventListener('DOMContentLoaded', function() {
+            // Adicionando o listener de clique ao botão
+            document.getElementById('btn-clicou').addEventListener('click', function() {
+                alert('click');
+            });
+        });
+    </script>
+</body>    
+</html>

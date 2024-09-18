@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <style type="text/css">
+            #quadrado{
+                height: 100px;
+                width: 100px;
+            }
+        </style>
+        <title>JS Exemples</title>
+    </head> 
+<body>
+    <div id="quadrado" style=background-color: aquamarine;"></div>
+    <script type="text/javascript">
+    document.getElementById("quadrado").style ="background-color:green;";
+    </script>
+</body>
+</html>          
