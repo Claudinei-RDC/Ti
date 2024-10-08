@@ -44,7 +44,7 @@
           <mxGeometry x="20" y="88" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ptd-G7qOBxz9BCuVcILF-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="85" y="320" width="10" height="80" as="geometry" />
+          <mxGeometry x="85" y="320" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Ptd-G7qOBxz9BCuVcILF-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,12 +75,45 @@
         </mxCell>
         <mxCell id="Ptd-G7qOBxz9BCuVcILF-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="380" as="sourcePoint" />
-            <mxPoint x="90" y="380" as="targetPoint" />
+            <mxPoint x="265" y="395.5" as="sourcePoint" />
+            <mxPoint x="95" y="394.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ptd-G7qOBxz9BCuVcILF-25" value="Válida login e senha" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="350" width="130" height="30" as="geometry" />
+        <mxCell id="Ptd-G7qOBxz9BCuVcILF-25" value="Válidar login e senha" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptd-G7qOBxz9BCuVcILF-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="265" y="310" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptd-G7qOBxz9BCuVcILF-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="449" as="sourcePoint" />
+            <mxPoint x="260" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptd-G7qOBxz9BCuVcILF-30" value="Logar (Login e Senha)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="418" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ptd-G7qOBxz9BCuVcILF-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89.5" y="510" as="sourcePoint" />
+            <mxPoint x="89.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptd-G7qOBxz9BCuVcILF-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269.5" y="508" as="sourcePoint" />
+            <mxPoint x="269.5" y="448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptd-G7qOBxz9BCuVcILF-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="500" as="sourcePoint" />
+            <mxPoint x="95" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ptd-G7qOBxz9BCuVcILF-34" value="Exibe página do usuário" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="470" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
